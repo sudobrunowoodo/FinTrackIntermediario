@@ -1,4 +1,4 @@
-# FinTrackF
+# FinTrack
 
 Aplicação desktop para controle financeiro pessoal, desenvolvida em **Java**, utilizando **JavaFX** para a interface gráfica e **MySQL** para armazenamento dos dados.
 
