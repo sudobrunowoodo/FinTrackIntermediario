@@ -16,7 +16,7 @@ public class FinController {
 
     private static final String USUARIO = "root";
 
-    private static final String SENHA = "2345678";
+    private static final String SENHA = "";
 
     public static Connection conectar() throws SQLException {
         return DriverManager.getConnection(
