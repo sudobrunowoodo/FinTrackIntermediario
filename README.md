@@ -34,8 +34,6 @@ O sistema permite cadastrar, atualizar e remover transações financeiras, além
   * Total de receitas
   * Total de despesas
   * Saldo
-* Exibição dos valores com indicação de entrada (`+`) ou saída (`-`)
-* Ordenação das transações por data
 
 ---
 
