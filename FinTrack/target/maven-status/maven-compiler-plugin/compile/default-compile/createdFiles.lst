@@ -1,0 +1,8 @@
+com\fintrack\dao\TransacaoDAO.class
+com\fintrack\service\RepositorioGenerico.class
+com\fintrack\model\Transacao.class
+com\fintrack\FinTrackController$1.class
+com\fintrack\database\Conexao.class
+com\fintrack\FinTrackController.class
+com\fintrack\Main.class
+com\fintrack\controller\FinController.class
